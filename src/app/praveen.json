@@ -1,0 +1,16 @@
+{
+    "Product-details": [
+        {
+            "ProductName" : "Laptop",
+            "Year": "2020"
+        },
+        {
+            "ProductName" : "Phone",
+            "Year": "2020"
+        },
+        {
+            "ProductName" : "Computer",
+            "Year": "2020"
+        }
+    ]
+}
